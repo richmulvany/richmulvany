@@ -1,5 +1,4 @@
-<img src="https://raw.githubusercontent.com/richmulvany/richmulvany/refs/heads/main/github-banner.001.png" style="border-radius:8px"/>
- <hr></hr>
+<kbd> <img src="https://raw.githubusercontent.com/richmulvany/richmulvany/refs/heads/main/github-banner.001.png#banner"/> </kbd>
  
 <p align="center">
   <samp>
