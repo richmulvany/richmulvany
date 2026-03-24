@@ -1,19 +1,15 @@
-<img src="https://raw.githubusercontent.com/richmulvany/richmulvany/refs/heads/main/github-banner.001.png" border-radius="8px"/>
+<img src="https://raw.githubusercontent.com/richmulvany/richmulvany/refs/heads/main/github-banner.001.png" style="border-radius:8px"/>
  <hr></hr>
+ 
+<p align="center">
+  <samp>
+    Hey there 👋 <br>
+    🌱 I'm Richard, an early-career data professional <br>
+    🛠️ Favorite Tools So Far: Databricks, Python, Spark, React ... <br>
+    📫 richard.mulvany@hotmail.co.uk <br>
+    🎨 Portfolio: https://richmulvany.github.io <br>
+    🧑‍🤝‍🧑 Linkedin: https://www.linkedin.com/in/richmulvany/ <br>
+    💼 Currently a Data Governance Engineer for Grayce Ltd (client: TotalEnergies SE) <br>
 
-## Hi there 👋
-
-<!--
-**richmulvany/richmulvany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  </samp>
+</p>
