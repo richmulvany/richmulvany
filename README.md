@@ -1,3 +1,6 @@
+<img src="https://github.com/richmulvany/richmulvany/blob/main/github%20header.001.png?raw=true"/>
+ <hr></hr>
+
 ## Hi there 👋
 
 <!--
