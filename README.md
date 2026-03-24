@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/richmulvany/richmulvany/refs/heads/main/github-banner.001.png"/>
+<img src="https://raw.githubusercontent.com/richmulvany/richmulvany/refs/heads/main/github-banner.001.png" border-radius="8px"/>
  <hr></hr>
 
 ## Hi there 👋
