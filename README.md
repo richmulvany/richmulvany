@@ -1,4 +1,4 @@
-<img src="https://github.com/richmulvany/richmulvany/blob/main/github%20header.001.png?raw=true"/>
+<img src="https://raw.githubusercontent.com/richmulvany/richmulvany/refs/heads/main/github-banner.001.png"/>
  <hr></hr>
 
 ## Hi there 👋
