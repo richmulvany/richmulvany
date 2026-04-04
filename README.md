@@ -8,7 +8,7 @@
     📫 Email: <a href="mailto:richard.mulvany@hotmail.co.uk">richard.mulvany@hotmail.co.uk</a> <br>
     🎨 Portfolio: https://richmulvany.github.io <br> 
     🧑‍🤝‍🧑 Linkedin: https://www.linkedin.com/in/richmulvany/ <br>
-    💼 Currently a Data Governance Engineer for Grayce Ltd (client: TotalEnergies SE) <br>
+    💼 Currently a Data Governance Engineer for Grayce Group (client: NEO NEXT+) <br>
 
   </samp>
 </p>
